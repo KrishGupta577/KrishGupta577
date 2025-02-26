@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Krishna Gupta  
 
-<!--
-**KrishGupta577/KrishGupta577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Engineering Student @ Sri Aurobindo Institute of Technology**  
+🚀 **MERN Stack Developer** | React Enthusiast | Backend Developer  
 
-Here are some ideas to get you started:
+### 🔹 About Me  
+I’m passionate about **building scalable web applications** and enhancing user experiences. With a strong foundation in **MERN stack, JavaScript, C, and C++**, I enjoy solving complex problems and optimizing performance.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Projects  
+- **[Food Del](#)** – A **full-stack food ordering platform** with an **admin panel, order system, and secure payment gateway**, built using the **MERN stack**.  
+
+### 🛠️ Skills  
+- **Languages**: JavaScript, C, C++  
+- **Web Technologies**: MERN Stack, React, Node.js, Express.js, MongoDB  
+- **Tools**: Git, Database Management, Software Engineering  
+
+### 📚 Interests  
+- **Reading**: Tech, fiction, and self-improvement books 📖  
+- **Badminton & Chess**: Strategy and competition 🏸♟️  
+
+### 📫 Connect with Me  
+📩 Email: [krishgupta577@gmail.com](mailto:krishgupta577@gmail.com)  
+🔗 LinkedIn: [krish-gupta-138b482a2](https://www.linkedin.com/in/krish-gupta-138b482a2/)  
