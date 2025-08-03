@@ -19,5 +19,6 @@ I’m passionate about **building scalable web applications** and enhancing user
 - **Badminton & Chess**: Strategy and competition 🏸♟️  
 
 ### 📫 Connect with Me  
+🌐 Portfolio: [myself-Krishna-Gupta](https://myself-krishna-gupta.vercel.app/)
 📩 Email: [krishgupta577@gmail.com](mailto:krishgupta577@gmail.com)  
 🔗 LinkedIn: [krish-gupta-138b482a2](https://www.linkedin.com/in/krish-gupta-138b482a2/)  
