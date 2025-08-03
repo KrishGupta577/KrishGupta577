@@ -8,7 +8,7 @@ I’m passionate about **building scalable web applications** and enhancing user
 
 ### 🔥 Projects  
 - **[Food Del](https://github.com/KrishGupta577/Food-Del)** – A **full-stack food ordering platform** with an **admin panel, order system, and secure payment gateway**, built using the **MERN stack**.
-- 
+ 
 - **[Chatty](https://github.com/KrishGupta577/Chatty)** – A **real-time chat application** with **authentication, user management, and live messaging**, built using the **MERN stack** and **Socket.io** for seamless communication.
 
 - **[Finance Tracker](https://github.com/KrishGupta577/Finance-Tracker)** – A **personal finance management tool** featuring **budget tracking, expense categorization, and insightful analytics**, built with the **MERN stack** and interactive charts using **Recharts**.
