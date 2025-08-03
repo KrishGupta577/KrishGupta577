@@ -4,7 +4,7 @@
 🚀 **MERN Stack Developer** | React Enthusiast | Backend Developer  
 
 ### 🔹 About Me  
-I’m passionate about **building scalable web applications** and enhancing user experiences. With a strong foundation in **MERN stack, JavaScript, C, and C++**, I enjoy solving complex problems and optimizing performance.  
+I’m passionate about **building scalable web applications** and enhancing user experiences. With a strong foundation in **MERN stack, JavaScript**, I enjoy solving complex problems and optimizing performance.  
 
 ### 🔥 Projects  
 - **[Food Del](https://github.com/KrishGupta577/Food-Del)** – A **full-stack food ordering platform** with an **admin panel, order system, and secure payment gateway**, built using the **MERN stack**.
